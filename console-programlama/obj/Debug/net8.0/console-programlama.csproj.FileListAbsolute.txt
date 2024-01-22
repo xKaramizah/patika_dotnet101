@@ -1,0 +1,14 @@
+c:\Users\USER\Desktop\Patika_Egitim\C#_Egitim\console-programlama\bin\Debug\net8.0\console-programlama.exe
+c:\Users\USER\Desktop\Patika_Egitim\C#_Egitim\console-programlama\bin\Debug\net8.0\console-programlama.deps.json
+c:\Users\USER\Desktop\Patika_Egitim\C#_Egitim\console-programlama\bin\Debug\net8.0\console-programlama.runtimeconfig.json
+c:\Users\USER\Desktop\Patika_Egitim\C#_Egitim\console-programlama\bin\Debug\net8.0\console-programlama.dll
+c:\Users\USER\Desktop\Patika_Egitim\C#_Egitim\console-programlama\bin\Debug\net8.0\console-programlama.pdb
+c:\Users\USER\Desktop\Patika_Egitim\C#_Egitim\console-programlama\obj\Debug\net8.0\console-programlama.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\Desktop\Patika_Egitim\C#_Egitim\console-programlama\obj\Debug\net8.0\console-programlama.AssemblyInfoInputs.cache
+c:\Users\USER\Desktop\Patika_Egitim\C#_Egitim\console-programlama\obj\Debug\net8.0\console-programlama.AssemblyInfo.cs
+c:\Users\USER\Desktop\Patika_Egitim\C#_Egitim\console-programlama\obj\Debug\net8.0\console-programlama.csproj.CoreCompileInputs.cache
+c:\Users\USER\Desktop\Patika_Egitim\C#_Egitim\console-programlama\obj\Debug\net8.0\console-programlama.dll
+c:\Users\USER\Desktop\Patika_Egitim\C#_Egitim\console-programlama\obj\Debug\net8.0\refint\console-programlama.dll
+c:\Users\USER\Desktop\Patika_Egitim\C#_Egitim\console-programlama\obj\Debug\net8.0\console-programlama.pdb
+c:\Users\USER\Desktop\Patika_Egitim\C#_Egitim\console-programlama\obj\Debug\net8.0\console-programlama.genruntimeconfig.cache
+c:\Users\USER\Desktop\Patika_Egitim\C#_Egitim\console-programlama\obj\Debug\net8.0\ref\console-programlama.dll
