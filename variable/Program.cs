@@ -16,5 +16,6 @@ class Program
         Console.WriteLine(dt2);
         string dt3 = DateTime.Now.ToString("HH:mm");
         Console.WriteLine(dt3);
+        
     }
 }
