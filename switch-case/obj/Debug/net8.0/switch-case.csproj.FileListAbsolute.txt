@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Patika_Egitim\Dotnet_101\switch-case\bin\Debug\net8.0\switch-case.exe
+C:\Users\USER\Desktop\Patika_Egitim\Dotnet_101\switch-case\bin\Debug\net8.0\switch-case.deps.json
+C:\Users\USER\Desktop\Patika_Egitim\Dotnet_101\switch-case\bin\Debug\net8.0\switch-case.runtimeconfig.json
+C:\Users\USER\Desktop\Patika_Egitim\Dotnet_101\switch-case\bin\Debug\net8.0\switch-case.dll
+C:\Users\USER\Desktop\Patika_Egitim\Dotnet_101\switch-case\bin\Debug\net8.0\switch-case.pdb
+C:\Users\USER\Desktop\Patika_Egitim\Dotnet_101\switch-case\obj\Debug\net8.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Patika_Egitim\Dotnet_101\switch-case\obj\Debug\net8.0\switch-case.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Patika_Egitim\Dotnet_101\switch-case\obj\Debug\net8.0\switch-case.AssemblyInfo.cs
+C:\Users\USER\Desktop\Patika_Egitim\Dotnet_101\switch-case\obj\Debug\net8.0\switch-case.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Patika_Egitim\Dotnet_101\switch-case\obj\Debug\net8.0\switch-case.sourcelink.json
+C:\Users\USER\Desktop\Patika_Egitim\Dotnet_101\switch-case\obj\Debug\net8.0\switch-case.dll
+C:\Users\USER\Desktop\Patika_Egitim\Dotnet_101\switch-case\obj\Debug\net8.0\refint\switch-case.dll
+C:\Users\USER\Desktop\Patika_Egitim\Dotnet_101\switch-case\obj\Debug\net8.0\switch-case.pdb
+C:\Users\USER\Desktop\Patika_Egitim\Dotnet_101\switch-case\obj\Debug\net8.0\switch-case.genruntimeconfig.cache
+C:\Users\USER\Desktop\Patika_Egitim\Dotnet_101\switch-case\obj\Debug\net8.0\ref\switch-case.dll
