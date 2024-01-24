@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\Patika_Egitim\\Dotnet_101\\console-programlama\\console-programlama.csproj": {}
+    "C:\\Users\\USER\\Desktop\\Patika_Egitim\\Dotnet_101\\switch-case\\switch-case.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\Patika_Egitim\\Dotnet_101\\console-programlama\\console-programlama.csproj": {
+    "C:\\Users\\USER\\Desktop\\Patika_Egitim\\Dotnet_101\\switch-case\\switch-case.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Patika_Egitim\\Dotnet_101\\console-programlama\\console-programlama.csproj",
-        "projectName": "console-programlama",
-        "projectPath": "C:\\Users\\USER\\Desktop\\Patika_Egitim\\Dotnet_101\\console-programlama\\console-programlama.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Patika_Egitim\\Dotnet_101\\switch-case\\switch-case.csproj",
+        "projectName": "switch-case",
+        "projectPath": "C:\\Users\\USER\\Desktop\\Patika_Egitim\\Dotnet_101\\switch-case\\switch-case.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\Patika_Egitim\\Dotnet_101\\console-programlama\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\Patika_Egitim\\Dotnet_101\\switch-case\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
