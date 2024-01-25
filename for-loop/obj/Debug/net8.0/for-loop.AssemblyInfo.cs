@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("switch-case")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("for-loop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd4b158133505d0a59a3712a4871520b00f0a571")]
-[assembly: System.Reflection.AssemblyProductAttribute("switch-case")]
-[assembly: System.Reflection.AssemblyTitleAttribute("switch-case")]
+[assembly: System.Reflection.AssemblyProductAttribute("for-loop")]
+[assembly: System.Reflection.AssemblyTitleAttribute("for-loop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
