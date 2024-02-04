@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("while-foreach")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa99954f764b1c37908a17db152dc53bd70510d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edc6a1eba16f4cf664e890af97d12c57c80b2e8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("while-foreach")]
 [assembly: System.Reflection.AssemblyTitleAttribute("while-foreach")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
