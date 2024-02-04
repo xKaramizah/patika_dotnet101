@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("for-loop")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("while-foreach")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa99954f764b1c37908a17db152dc53bd70510d2")]
-[assembly: System.Reflection.AssemblyProductAttribute("for-loop")]
-[assembly: System.Reflection.AssemblyTitleAttribute("for-loop")]
+[assembly: System.Reflection.AssemblyProductAttribute("while-foreach")]
+[assembly: System.Reflection.AssemblyTitleAttribute("while-foreach")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
